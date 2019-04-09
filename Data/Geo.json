@@ -1,0 +1,161 @@
+[{
+	"address_pnt": "46 Waterfront Way  Docklands",
+	"easting": "318607.95969334",
+	"gisid": "45525",
+	"latitude": "-37.81324749",
+	"longitude": "144.93929507",
+	"northing": "5812904.85377861",
+	"str_name": "Waterfront Way",
+	"street_id": "119758",
+	"street_no": "46",
+	"suburb": "Docklands",
+	"suburb_id": "599",
+	"the_geom": {
+		"type": "Point",
+		"coordinates": [144.939295073672, -37.813247490146]
+	}
+}, {
+	"address_pnt": "24 Ievers Terrace  Carlton",
+	"easting": "320779.35351711",
+	"gisid": "8739",
+	"latitude": "-37.80339603",
+	"longitude": "144.96423117",
+	"northing": "5814046.16412331",
+	"str_name": "Ievers Terrace",
+	"street_id": "734",
+	"street_no": "24",
+	"suburb": "Carlton",
+	"suburb_id": "585",
+	"the_geom": {
+		"type": "Point",
+		"coordinates": [144.964231171624, -37.803396032399]
+	}
+}, {
+	"address_pnt": "12 Tyne Street  Carlton",
+	"easting": "320989.90644016",
+	"gisid": "26703",
+	"latitude": "-37.79791518",
+	"longitude": "144.9667729",
+	"northing": "5814659.22468005",
+	"str_name": "Tyne Street",
+	"street_id": "1137",
+	"street_no": "12",
+	"suburb": "Carlton",
+	"suburb_id": "585",
+	"the_geom": {
+		"type": "Point",
+		"coordinates": [144.966772899168, -37.797915177018]
+	}
+}, {
+	"address_pnt": "15 Little Elgin Street  Carlton",
+	"easting": "320982.27260094",
+	"gisid": "44672",
+	"latitude": "-37.79758154",
+	"longitude": "144.96669535",
+	"northing": "5814696.09836387",
+	"str_name": "Little Elgin Street",
+	"street_id": "817",
+	"street_no": "15",
+	"suburb": "Carlton",
+	"suburb_id": "585",
+	"the_geom": {
+		"type": "Point",
+		"coordinates": [144.966695351061, -37.797581540245]
+	}
+}, {
+	"address_pnt": "385 Queen Street  Melbourne",
+	"easting": "320202.37422919",
+	"gisid": "32839",
+	"latitude": "-37.80909084",
+	"longitude": "144.95752105",
+	"northing": "5813401.34000183",
+	"str_name": "Queen Street",
+	"street_id": "1010",
+	"street_no": "385",
+	"suburb": "Melbourne",
+	"suburb_id": "591",
+	"the_geom": {
+		"type": "Point",
+		"coordinates": [144.957521048188, -37.80909084027]
+	}
+}, {
+	"address_pnt": "104 Jolimont Road  East Melbourne",
+	"easting": "322103.07005921",
+	"gisid": "39046",
+	"latitude": "-37.81813467",
+	"longitude": "144.97886383",
+	"northing": "5812438.64839307",
+	"str_name": "Jolimont Road",
+	"street_id": "744",
+	"street_no": "104",
+	"suburb": "East Melbourne",
+	"suburb_id": "587",
+	"the_geom": {
+		"type": "Point",
+		"coordinates": [144.978863829579, -37.818134671083]
+	}
+}, {
+	"address_pnt": "658 Elizabeth Street  Melbourne",
+	"easting": "320262.7015143",
+	"gisid": "22961",
+	"latitude": "-37.80304278",
+	"longitude": "144.95837287",
+	"northing": "5814074.10878924",
+	"str_name": "Elizabeth Street",
+	"street_id": "599",
+	"street_no": "658",
+	"suburb": "Melbourne",
+	"suburb_id": "591",
+	"the_geom": {
+		"type": "Point",
+		"coordinates": [144.958372867748, -37.803042779729]
+	}
+}, {
+	"address_pnt": "58 Strickland Road  Parkville",
+	"easting": "318618.21250987",
+	"gisid": "53779",
+	"latitude": "-37.77621228",
+	"longitude": "144.94044036",
+	"northing": "5817016.73465364",
+	"str_name": "Strickland Road",
+	"street_id": "119261",
+	"street_no": "58",
+	"suburb": "Parkville",
+	"suburb_id": "593",
+	"the_geom": {
+		"type": "Point",
+		"coordinates": [144.940440358911, -37.776212275785]
+	}
+}, {
+	"address_pnt": "248 Little Collins Street  Melbourne",
+	"easting": "320992.8161641",
+	"gisid": "34584",
+	"latitude": "-37.81437655",
+	"longitude": "144.96635439",
+	"northing": "5812831.77079224",
+	"str_name": "Little Collins Street",
+	"street_id": "812",
+	"street_no": "248",
+	"suburb": "Melbourne",
+	"suburb_id": "591",
+	"the_geom": {
+		"type": "Point",
+		"coordinates": [144.9663543918, -37.814376551551]
+	}
+}, {
+	"address_pnt": "80 Gatehouse Street  Parkville",
+	"easting": "319807.58968001",
+	"gisid": "21917",
+	"latitude": "-37.79494029",
+	"longitude": "144.95342748",
+	"northing": "5814963.6848685",
+	"str_name": "Gatehouse Street",
+	"street_id": "649",
+	"street_no": "80",
+	"suburb": "Parkville",
+	"suburb_id": "593",
+	"the_geom": {
+		"type": "Point",
+		"coordinates": [144.953427479962, -37.79494028533]
+	}
+}]
