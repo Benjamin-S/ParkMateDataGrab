@@ -14,7 +14,7 @@ namespace DataGrab
     {
         static void Main(string[] args)
         {
-            var jsonURL = @"https://data.melbourne.vic.gov.au/resource/imwx-szwr.json";
+            var jsonURL = @"https://data.melbourne.vic.gov.au/resource/imwx-szwr.json?$order=:id&$limit=100000&$offset=0";
             var geoString = GetJsonData(jsonURL);
 
             // Data source doesn't have post codes so I've ripped some from the web
