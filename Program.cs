@@ -24,6 +24,12 @@ namespace DataGrab
             // Map to intermediary model for renaming and discarding of properties
             var addresses = Address.FromJson(geoString);
             List<AddressDTO> addressList = MapToDTO(addresses, zipString);
+
+            using (StreamWriter outFile = File.CreateText(@"Data\AddressDTO.json"))
+            {
+                JsonSerializer serializer = new JsonSerializer();
+                serializer.Serialize(outFile, addressList);
+            }
         }
 
         static string GetZipData(string zipFile)
